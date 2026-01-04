@@ -1,0 +1,3 @@
+*.csv
+config.json
+/node_modules
