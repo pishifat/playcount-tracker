@@ -1,9 +1,10 @@
 get playcount/passcount on all difficulties of a set or multiple sets
 
-1. `npm i`
-2. add `sheet.csv` to directory in format below
-3. `node tracker.js`
-4. replace initial sheet with `output.csv`
+1. create `config.json` based on `config.example.json`
+2. `npm i`
+3. add `sheet.csv` to directory in format below
+4. `node tracker.js`
+5. replace initial sheet with `output.csv`
 
 | artist | title | beatmapset IDs* | total plays | total passes |
 | :-- | :-- | :-- | :-- | :-- |
